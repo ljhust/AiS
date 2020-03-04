@@ -1,0 +1,1 @@
+## this is a AI solutions collection based on topic

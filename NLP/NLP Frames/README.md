@@ -6,4 +6,6 @@
 | [scispacy](https://github.com/allenai/scispacy) | A full spaCy pipeline and models for scientific/biomedical documents.|
 | [NLPre](https://github.com/NIHOPA/NLPre) | Python library for Natural Language Preprocessing (NLPre)|
 | [flair](https://github.com/flairNLP/flair) | A very simple framework for state-of-the-art Natural Language Processing (NLP) |
+| [TextBrewer](https://github.com/airaria/TextBrewer) | A PyTorch-based knowledge distillation toolkit for natural language processing |
+
 

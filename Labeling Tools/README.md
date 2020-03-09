@@ -8,4 +8,5 @@
 | [label-studio](https://github.com/heartexlabs/label-studio) | General | Label Studio is a multi-type data labeling and annotation tool with standardized output format |
 | [AlpacaTag](https://github.com/INK-USC/AlpacaTag) | Text | AlpacaTag: An Active Learning-based Crowd Annotation Framework for Sequence Tagging (ACL 2019 Demo) |
 | [awesome-data-labeling]( https://github.com/heartexlabs/awesome-data-labeling) | Awsome | A curated list of awesome data labeling tools |
+|[universal-data-tool](https://github.com/UniversalDataTool/universal-data-tool)|General|Collaborate & label any type of data, images, text, or documents, in an easy web interface or desktop app.|
 

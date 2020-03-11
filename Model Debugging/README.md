@@ -8,4 +8,6 @@
 |[mlens](https://github.com/flennerhag/mlens)|ML-Ensemble – high performance ensemble learning http://ml-ensemble.com|
 |[combo](https://github.com/yzhao062/combo)|A Python Toolbox for Machine Learning Model Combination https://pycombo.readthedocs.io|
 |[awesome-ensemble-learning](https://github.com/yzhao062/awesome-ensemble-learning)|Ensemble learning related books, papers, videos, and toolboxes|
+|[yellowbrick](https://github.com/DistrictDataLabs/yellowbrick)|Visual analysis and diagnostic tools to facilitate machine learning model selection. http://www.scikit-yb.org/|
+
 

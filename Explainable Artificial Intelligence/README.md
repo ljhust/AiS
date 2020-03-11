@@ -7,6 +7,9 @@
 |[interpret](https://github.com/interpretml/interpret)|Fit interpretable machine learning models. Explain blackbox machine learning.|
 |[captum](https://github.com/pytorch/captum)|Model interpretability and understanding for PyTorch https://captum.ai|
 |[lucid](https://github.com/tensorflow/lucid)|A collection of infrastructure and tools for research in neural network interpretability|
+|[dtreeviz](https://github.com/parrt/dtreeviz)|A python library for decision tree visualization and model interpretation.|
+|[awesome-decision-tree-papers](https://github.com/benedekrozemberczki/awesome-decision-tree-papers)|A collection of research papers on decision, classification and regression trees with implementations.|
+
 
 
 

@@ -1,5 +1,5 @@
 | Title | Task | Remark |
-| :----: | :----: | :----: |
+| :----: | :----: | :---- |
 | [CrossWOZ](https://github.com/thu-coai/CrossWOZ) | chatbot | A Large-Scale Chinese Cross-Domain Task-Oriented Dialogue Dataset |
 | [BuzzFeedNews/everything](https://github.com/BuzzFeedNews/everything) | general | An index of all our open-source data, analysis, libraries, tools, and guides. |
 | [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) | general | A topic-centric list of HQ open datasets. |
@@ -26,6 +26,8 @@
 | [AudioSet](https://research.google.com/audioset/) | sound | A large-scale dataset of manually annotated audio events |
 | [webhouse.io](https://webhose.io/free-datasets/) | general | Free Datasets: Download Ready-Made or Customized |
 | [datahub.io](https://datahub.io/search) | general | data collection and supply search service |
+|[openflights](https://github.com/jpatokal/openflights)| transport|Website for storing flight information, rendering paths on a zoomable world map and calculating statistics, with plenty of free airline, airport and route data. http://openflights.org|
+
 
 
 

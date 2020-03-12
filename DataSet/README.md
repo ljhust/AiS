@@ -40,6 +40,8 @@
 |[Chinese_Rumor_Dataset](https://github.com/thunlp/Chinese_Rumor_Dataset)|NLP| 中文谣言|
 |[nlp_chinese_corpus](https://github.com/brightmart/nlp_chinese_corpus)|NLP|大规模中文自然语言处理语料 Large Scale Chinese Corpus for NLP|
 |[WikiSQL](https://github.com/salesforce/wikisql)|NLP|A large annotated semantic parsing corpus for developing natural language interfaces.|
+|[MiningZhiDaoQACorpus](https://github.com/liuhuanyong/MiningZhiDaoQACorpus)|QA|ZhiDaoChatCorpus, zhidao QA pairs crawled from Baidu zhidao which contains more than 5,800,000 question and 9,830,000 answers with certain tags。百度知道问答语料库，包括超过580万的问题，938万的答案，5800个分类标签。基于该问答语料库，可支持多种应用，如闲聊问答，逻辑挖掘。|
+
 
 
 

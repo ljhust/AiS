@@ -27,6 +27,13 @@
 | [webhouse.io](https://webhose.io/free-datasets/) | general | Free Datasets: Download Ready-Made or Customized |
 | [datahub.io](https://datahub.io/search) | general | data collection and supply search service |
 |[openflights](https://github.com/jpatokal/openflights)| transport|Website for storing flight information, rendering paths on a zoomable world map and calculating statistics, with plenty of free airline, airport and route data. http://openflights.org|
+|[medical-data](https://github.com/beamandrew/medical-data)|health|Medical Data for Machine Learning|
+|[Hospital](https://github.com/open-power-workgroup/Hospital)|health|OpenPower工作组收集汇总的医院开放数据|
+|[physionet](https://physionet.org/data/)|health|healthy data search engine|
+|[medical-imaging-datasets](https://github.com/sfikas/medical-imaging-datasets)|health|A list of Medical imaging datasets.|
+|[cheXpert](https://stanfordmlgroup.github.io/competitions/chexpert/)|health|A Large Chest X-Ray Dataset And Competition|
+|[proteinnet](https://github.com/aqlaboratory/proteinnet)|health|Standardized data set for machine learning of protein structure|
+
 
 
 

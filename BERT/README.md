@@ -7,4 +7,7 @@
 | [All The Ways You Can Compress BERT](http://mitchgordon.me/machine/learning/2019/11/18/all-the-ways-to-compress-BERT.html) | *NO* | a review of BERT blog |
 | [bert lang street](https://bertlang.unibocconi.it/) | *NO* |the bert model collections hub |
 | [huggingface pretraintd NPL models](https://huggingface.co/models) | *NO* | all models and checkpoints |
+|[transformers](https://github.com/huggingface/transformers)|🤗 Transformers: State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch. https://huggingface.co/transformers|
+|[bertviz](https://github.com/jessevig/bertviz)|Tool for visualizing attention in the Transformer model (BERT, GPT-2, Albert, XLNet, RoBERTa, CTRL, etc.)|
+
 

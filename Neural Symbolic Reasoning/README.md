@@ -6,3 +6,4 @@
 |[Deep-Reasoning-Papers](https://github.com/floodsung/Deep-Reasoning-Papers)|NA|NO|Recent Papers including Neural Symbolic Reasoning, Logical Reasoning, Visual Reasoning and any other topics connecting deep learning and reasoning|
 |[Deep-Reasoning-Papers](https://github.com/floodsung/Deep-Reasoning-Papers)|||Recent Papers including Neural Symbolic Reasoning, Logical Reasoning, Visual Reasoning and any other topics connecting deep learning and reasoning|
 |[skope-rules](https://github.com/scikit-learn-contrib/skope-rules)|||machine learning with logical rules in Python http://skope-rules.readthedocs.io|
+|[NL2LF](https://github.com/BaeSeulki/NL2LF)|||The Resources for "Natural Language to Logical Form" Research; "自然语言转逻辑形式"研究资料收集。|

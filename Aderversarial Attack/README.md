@@ -13,6 +13,8 @@
 |[graph-adversarial-learning-literature](https://github.com/YingtongDou/graph-adversarial-learning-literature)||||
 |[HackingNeuralNetworks](https://github.com/Kayzaks/HackingNeuralNetworks)|||A small course on exploiting and defending neural networks|
 |[AdvBox](https://github.com/advboxes/AdvBox)|||Advbox is a toolbox to generate adversarial examples that fool neural networks in PaddlePaddle、PyTorch、Caffe2、MxNet、Keras、TensorFlow and Advbox can benchmark the robustness of machine learning models. Advbox give a command line tool to generate adversarial examples with Zero-Coding.|
+|[TAADpapers](https://github.com/thunlp/TAADpapers)|||Must-read Papers on Textual Adversarial Attack and Defense|
+
 
 
 

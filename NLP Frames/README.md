@@ -8,5 +8,14 @@
 | [flair](https://github.com/flairNLP/flair) | A very simple framework for state-of-the-art Natural Language Processing (NLP) |
 | [TextBrewer](https://github.com/airaria/TextBrewer) | A PyTorch-based knowledge distillation toolkit for natural language processing |
 |[huggingface-awsome-paper](https://github.com/huggingface/awesome-papers)|Papers & presentations from Hugging Face's weekly science day|
+|[BlingFire](https://github.com/Microsoft/BlingFire)|A lightning fast Finite State machine and REgular expression manipulation library.|
+|[langid.py](https://github.com/saffsd/langid.py)|Stand-alone language identification system|
+|[python-pinyin](https://github.com/mozillazg/python-pinyin)|汉字转拼音(pypinyin) https://pypinyin.readthedocs.io|
+|[homer](https://github.com/wyounas/homer)|Homer, a text analyser in Python, can help make your text more clear, simple and useful for your readers.|
+|[ChineseGLUE](https://github.com/chineseGLUE/chineseGLUE)|Language Understanding Evaluation benchmark for Chinese: datasets, baselines, pre-trained models,corpus and leaderboard http://www.CLUEbenchmark.com|
+|[tinfoleak](https://github.com/vaguileradiaz/tinfoleak)|The most complete open-source tool for Twitter intelligence analysis|
+|[hanzi_char_featurizer](https://github.com/howl-anderson/hanzi_char_featurizer)|汉字字符特征提取器 (featurizer)，提取汉字的特征（发音特征、字形特征）用做深度学习的特征|
+|[legalPapers](https://github.com/thunlp/LegalPapers)|Must-read Papers on Legal Intelligence|
+
 
 

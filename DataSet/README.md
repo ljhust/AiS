@@ -33,6 +33,15 @@
 |[medical-imaging-datasets](https://github.com/sfikas/medical-imaging-datasets)|health|A list of Medical imaging datasets.|
 |[cheXpert](https://stanfordmlgroup.github.io/competitions/chexpert/)|health|A Large Chest X-Ray Dataset And Competition|
 |[proteinnet](https://github.com/aqlaboratory/proteinnet)|health|Standardized data set for machine learning of protein structure|
+|[Dialog_Corpus](https://github.com/candlewill/Dialog_Corpus)|chatbot|用于训练中英文对话系统的语料库 Datasets for Training Chatbot System|
+|[insuranceqa-corpus-zh](https://github.com/chatopera/insuranceqa-corpus-zh)|public|OpenData in insurance area for Machine Learning Tasks|
+|[nlp-datasets](https://github.com/niderhoff/nlp-datasets)|NLP|Alphabetical list of free/public domain datasets with text data for use in Natural Language Processing (NLP)|
+|[CEC-Corpus](https://github.com/shijiebei2009/CEC-Corpus)|NLP|📚中文突发事件语料库（Chinese Emergency Corpus）-上海大学-语义智能实验室|
+|[Chinese_Rumor_Dataset](https://github.com/thunlp/Chinese_Rumor_Dataset)|NLP| 中文谣言|
+|[nlp_chinese_corpus](https://github.com/brightmart/nlp_chinese_corpus)|NLP|大规模中文自然语言处理语料 Large Scale Chinese Corpus for NLP|
+|[WikiSQL](https://github.com/salesforce/wikisql)|NLP|A large annotated semantic parsing corpus for developing natural language interfaces.|
+
+
 
 
 

@@ -6,6 +6,8 @@
 |[Neural-Code-Search-Evaluation-Dataset](https://github.com/facebookresearch/Neural-Code-Search-Evaluation-Dataset)|evaluation dataset consisting of natural language query and code snippet pairs|
 |[pysonar2](https://github.com/yinwang0/pysonar2)|PySonar2: an advanced semantic indexer for Python|
 |[livegrep](https://github.com/livegrep/livegrep)|Interactively grep source code. Source for http://livegrep.com/|
+|[CodeSearchNet](https://github.com/github/CodeSearchNet)|Datasets, tools, and benchmarks for representation learning of code.|
+
 
 
 

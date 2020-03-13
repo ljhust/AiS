@@ -5,5 +5,7 @@
 |[awesome-self-supervised-learning](https://github.com/jason718/awesome-self-supervised-learning)|A curated list of awesome self-supervised methods|
 |[hdbscan](https://github.com/scikit-learn-contrib/hdbscan)|A high performance implementation of HDBSCAN clustering. http://hdbscan.readthedocs.io/en/latest/|
 |[DeepClustering](https://github.com/zhoushengisnoob/DeepClustering)|Deep Clustering: methods and implements|
+|[thisrepositorydoesnotexist](https://github.com/paubric/thisrepositorydoesnotexist)|A curated list of awesome projects which use Machine Learning to generate synthetic content.|
+
 
 

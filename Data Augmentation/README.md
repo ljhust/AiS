@@ -12,5 +12,7 @@
 |[cleanlab](https://github.com/cgnorthcutt/cleanlab)|Find label errors in datasets, weak supervision, and learning with noisy labels. |
 |[Augmentor](https://github.com/mdbloice/Augmentor?from=timeline&isappinstalled=0)|
 |[albumentations](https://github.com/albumentations-team/albumentations)|fast image augmentation library and easy to use wrapper around other libraries https://www.mdpi.com/2078-2489/11/2/125|
+|[Snorkel MeTaL](https://github.com/HazyResearch/metal)|Snorkel MeTaL: A framework for training models with multi-task weak supervision|
+
 
 

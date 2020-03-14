@@ -8,4 +8,6 @@
 | [clipper](https://github.com/ucbrise/clipper)| A low-latency prediction-serving system |
 | [nvtop](https://github.com/Syllo/nvtop) | NVIDIA GPUs htop like monitoring tool |
 | [cortex](https://github.com/cortexlabs/cortex) | Deploy machine learning models in production |
+|[Production-Level-Deep-Learning](https://github.com/alirezadir/Production-Level-Deep-Learning)|A guideline for building practical production-level deep learning systems to be deployed in real world applications.|
+
 

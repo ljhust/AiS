@@ -10,3 +10,5 @@
 |[edward](https://github.com/blei-lab/edward)|A probabilistic programming language in TensorFlow. Deep generative models, variational inference. http://edwardlib.org|
 |[gpytorch](https://github.com/cornellius-gp/gpytorch)|A highly efficient and modular implementation of Gaussian Processes in PyTorch|
 |[pyro](https://github.com/pyro-ppl/pyro)|Deep universal probabilistic programming with Python and PyTorch http://pyro.ai|
+|[zhusuan](https://github.com/thu-ml/zhusuan)|A library for Bayesian deep learning, generative models, based on Tensorflow http://zhusuan.readthedocs.io|
+

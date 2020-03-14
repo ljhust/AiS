@@ -5,4 +5,6 @@
 | [optuna]( https://github.com/optuna/optuna) | A hyperparameter optimization framework|
 | [xcessiv](https://github.com/reiinakano/xcessiv) | A web-based application for quick, scalable, and automated hyperparameter tuning and stacked ensembling in Python. |
 | [advisor](https://github.com/tobegit3hub/advisor) | Open-source implementation of Google Vizier for hyper parameters tuning |
+|[talos](https://github.com/autonomio/talos)|Hyperparameter Optimization for TensorFlow, Keras and PyTorch |
+
 

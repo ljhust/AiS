@@ -19,6 +19,12 @@
 |[Awesome-Deblurring](https://github.com/subeeshvasu/Awesome-Deblurring)|
 |[Real-Time-Person-Removal](https://github.com/jasonmayes/Real-Time-Person-Removal)|
 |[generative_inpainting](https://github.com/JiahuiYu/generative_inpainting)|DeepFill v1/v2 with Contextual Attention and Gated Convolution, CVPR 2018, and ICCV 2019 Oral|
+|[reproducible-image-denoising-state-of-the-art](https://github.com/wenbihan/reproducible-image-denoising-state-of-the-art)|Collection of popular and reproducible image denoising works.|
+|[BicycleGAN](https://github.com/junyanz/BicycleGAN)|Toward Multimodal Image-to-Image Translation |
+|[DeepCreamPy](https://github.com/deeppomf/DeepCreamPy)|Decensoring Hentai with Deep Neural Networks|
+|[Anime-InPainting](https://github.com/youyuge34/Anime-InPainting)|An application tool of edge-connect, which can do anime inpainting and drawing. 动漫人物图片自动修复，去马赛克，填补，去瑕疵|
+
+
 
 
 

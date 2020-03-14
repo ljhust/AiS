@@ -12,5 +12,8 @@
 |[Chinese-Annotator](https://github.com/deepwel/Chinese-Annotator)|NLP|Annotator for Chinese Text Corpus (UNDER DEVELOPMENT) 中文文本标注工具|
 |[brat](https://github.com/nlplab/brat)|brat rapid annotation tool (brat) - for all your textual annotation needs http://brat.nlplab.org|
 |[doccano](https://github.com/doccano/doccano)|NLP|Open source text annotation tool for machine learning practitioner. https://doccano.herokuapp.com|
+|[labelbox](https://github.com/Labelbox/Labelbox)|Image|Labelbox is the fastest way to annotate data to build and ship computer vision applications. https://www.labelbox.com|
+|[cvat](https://github.com/opencv/cvat)|Image|Powerful and efficient Computer Vision Annotation Tool (CVAT)|
+
 
 

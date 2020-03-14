@@ -19,6 +19,11 @@
 |[gen-efficientnet-pytorch](https://github.com/rwightman/gen-efficientnet-pytorch)|Pretrained EfficientNet, MixNet, MobileNetV3, MNASNet A1 and B1, FBNet, Single-Path NAS|
 |[nsfw](https://github.com/rockyzhengwu/nsfw)|Suitable for Work (NSFW) classification|
 |[awesome-image-classification](https://github.com/weiaicunzai/awesome-image-classification)|
+|[squoosh](https://github.com/GoogleChromeLabs/squoosh)|Make images smaller using best-in-class codecs, right in the browser. https://squoosh.app|
+|[Single-Image-Super-Resolution](https://github.com/YapengTian/Single-Image-Super-Resolution)|A collection of high-impact and state-of-the-art SR methods |
+|[caire](https://github.com/esimov/caire)|Content aware image resize library|
+
+
 
 
 

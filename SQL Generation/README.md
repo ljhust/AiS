@@ -6,6 +6,8 @@
 |[Natural_Logic_Interpreter](https://github.com/ParhamP/Natural_Logic_Interpreter)|Automatically interpret and validate nested natural logic arguments based on rules of inference and propositional logic|
 |[Screenshot-to-code](https://github.com/emilwallner/Screenshot-to-code)|A neural network that transforms a design mock-up into a static website.|
 |[imgcook](https://github.com/taofed/imgcook)|通过设计稿一键智能生成视图代码 https://www.imgcook.com|
+|[sketch-code](https://github.com/ashnkumar/sketch-code)|Keras model to generate HTML code from hand-drawn website mockups. Implements an image captioning architecture to drawn source images.|
+
 
 
 

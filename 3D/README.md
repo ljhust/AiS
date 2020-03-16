@@ -1,4 +1,4 @@
-| Title | Remark |
+| Title| Remark |
 | :----: | :---- |
 |[3D-Machine-Learning](https://github.com/timzhang642/3D-Machine-Learning)|A resource repository for 3D machine learning|
 |[BundleFusion](https://github.com/niessner/BundleFusion)|[Siggraph 2017] BundleFusion: Real-time Globally Consistent 3D Reconstruction using Online Surface Re-integration|
@@ -11,8 +11,6 @@
 |[kaolin](https://github.com/NVIDIAGameWorks/kaolin/)|A PyTorch Library for Accelerating 3D Deep Learning Research|
 |[pytorch3d](https://github.com/facebookresearch/pytorch3d)|PyTorch3D is FAIR's library of reusable components for deep learning with 3D data https://pytorch3d.org/|
 |[PointCNN: Convolution On X-Transformed Points (NeurIPS 2018) ](https://github.com/yangyanli/PointCNN)|
-
-
 
 
 

@@ -18,7 +18,7 @@
 |[IDCardRecognition](https://github.com/zhongfenglee/IDCardRecognition)|中国大陆第二代身份证识别，自动读出身份证上的信息（姓名、性别、民族、住址、身份证号码）并截取身份证照片|
 |[TextRecognitionDataGenerator](https://github.com/Belval/TextRecognitionDataGenerator)|A synthetic data generator for text recognition|
 |[image-text-localization-recognition](https://github.com/whitelok/image-text-localization-recognition/blob/master/README.zh-cn.md)|场景文本位置感知与识别的论文资源汇总|
-
+|[JaidedRead](https://github.com/JaidedAI/JaidedRead)|End-to-End Multilingual Optical Character Recognition (OCR) Solution|
 
 
 

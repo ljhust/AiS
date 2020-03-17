@@ -17,6 +17,11 @@
 |[machine_learning_security](https://github.com/13o-bbr-bbq/machine_learning_security)||
 |[awful-ai](https://github.com/daviddao/awful-ai)|😈Awful AI is a curated list to track current scary usages of AI - hoping to raise awareness https://twitter.com/dwddao|
 |[awesome-ml-for-cybersecurity](https://github.com/jivoi/awesome-ml-for-cybersecurity#awesome-machine-learning-for-cyber-security-)|
+|[awesome-blockchain-ai](https://github.com/steven2358/awesome-blockchain-ai)|A curated list of Blockchain projects for Artificial Intelligence and Machine Learning|
+|[federated](https://github.com/tensorflow/federated)|A framework for implementing federated learning|
+|[FATE](https://github.com/FederatedAI/FATE)|An Industrial Level Federated Learning Framework https://www.fedai.org/|
+
+
 
 
 

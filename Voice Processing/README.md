@@ -11,6 +11,7 @@
 |[ASRT_SpeechRecognition](https://github.com/nl8590687/ASRT_SpeechRecognition)|A Deep-Learning-Based Chinese Speech Recognition System 基于深度学习的中文语音识别系统|
 |[cli-visualizer](https://github.com/dpayne/cli-visualizer)|CLI based audio visualizer|
 |[kaldi](https://github.com/kaldi-asr/kaldi)|This is the official location of the Kaldi project. http://kaldi-asr.org|
+|[Speech-Separation-Paper](https://github.com/JusperLee/Speech-Separation-Paper)|A must-read paper for speech separation based on neural networks|
 
 
 

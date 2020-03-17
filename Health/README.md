@@ -9,6 +9,8 @@
 |[awesome-gan-for-medical-imaging](https://github.com/xinario/awesome-gan-for-medical-imaging)|Awesome GAN for Medical Imaging|
 |[awesome-healthcare](https://github.com/kakoni/awesome-healthcare)|Curated list of awesome open source healthcare software, libraries, tools and resources.|
 |[Awesome-Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics)|A curated list of awesome Bioinformatics libraries and software.|
+|[deeplearning-biology](https://github.com/hussius/deeplearning-biology)|A list of deep learning implementations in biology|
+
 
 
 

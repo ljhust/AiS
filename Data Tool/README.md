@@ -18,3 +18,4 @@
 |[vaex](https://github.com/vaexio/vaex)|Out-of-Core DataFrames for Python, ML, visualize and explore big tabular data at a billion rows per second. |
 |[CleverCSV](https://github.com/alan-turing-institute/CleverCSV)|CleverCSV is a Python package for handling messy CSV files|
 |[pandas-profiling](https://github.com/pandas-profiling/pandas-profiling)|Create HTML profiling reports from pandas DataFrame objects|
+|[atlas](https://github.com/dessa-oss/atlas)|An Open Source, Self-Hosted Platform For Applied Deep Learning Development http://www.docs.atlas.dessa.com|

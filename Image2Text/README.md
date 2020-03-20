@@ -19,18 +19,4 @@
 |[TextRecognitionDataGenerator](https://github.com/Belval/TextRecognitionDataGenerator)|A synthetic data generator for text recognition|
 |[image-text-localization-recognition](https://github.com/whitelok/image-text-localization-recognition/blob/master/README.zh-cn.md)|场景文本位置感知与识别的论文资源汇总|
 |[JaidedRead](https://github.com/JaidedAI/JaidedRead)|End-to-End Multilingual Optical Character Recognition (OCR) Solution|
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+|[Transformer-OCR](https://github.com/fengxinjie/Transformer-OCR)|

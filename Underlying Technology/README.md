@@ -9,4 +9,4 @@
 |[jax](https://github.com/google/jax)|Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more|
 |[cuml](https://github.com/rapidsai/cuml)|cuML - GPU Machine Learning Algorithms|
 |[taichi](https://github.com/taichi-dev/taichi)|Productive programming language for portable, high-performance, sparse & differentiable computing|
-
+|[jittor](https://github.com/Jittor/Jittor)|Jittor: a Just-in-time(JIT) deep learning framework|

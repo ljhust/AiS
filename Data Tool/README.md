@@ -5,7 +5,6 @@
 |[streamlit](https://github.com/streamlit/streamlit)|Streamlit — The fastest way to build custom ML tools |
 |[trains](https://github.com/allegroai/trains)|TRAINS - Auto-Magical Experiment Manager & Version Control for AI - NOW WITH AUTO-MAGICAL DEVOPS!|
 |[ml-workspace](https://github.com/ml-tooling/ml-workspace)|All-in-one web-based IDE specialized for machine learning and data science|
-|[awesome-dataset-tools](https://github.com/jsbroks/awesome-dataset-tools)|A curated list of awesome dataset tools|
 |[OpenRefine](https://github.com/OpenRefine/OpenRefine)|OpenRefine is a free, open source power tool for working with messy data and improving it |
 |[dvc](https://github.com/iterative/dvc)|🦉Data Version Control |
 |[great_expectations](https://github.com/great-expectations/great_expectations)|Always know what to expect from your data. https://docs.greatexpectations.io/|

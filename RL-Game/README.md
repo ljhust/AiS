@@ -14,8 +14,7 @@
 |[pluribus-poker-AI](https://github.com/fedden/pluribus-poker-AI)|🤖 An Open Source Texas Hold'em AI https://www.leonfedden.co.uk|
 |[deep-learning-nlp-rl-papers](https://github.com/madrugado/deep-learning-nlp-rl-papers)|
 |[awesome-rl-nlp](https://github.com/adityathakker/awesome-rl-nlp)|
-
-
+|[PrismataAI](https://github.com/davechurchill/PrismataAI)|The C++ AI Engine for Prismata by Lunarch Studios|
 
 
 

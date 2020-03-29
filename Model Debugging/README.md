@@ -10,4 +10,4 @@
 |[awesome-ensemble-learning](https://github.com/yzhao062/awesome-ensemble-learning)|Ensemble learning related books, papers, videos, and toolboxes|
 |[yellowbrick](https://github.com/DistrictDataLabs/yellowbrick)|Visual analysis and diagnostic tools to facilitate machine learning model selection. http://www.scikit-yb.org/|
 |[LAMA](https://github.com/facebookresearch/LAMA)|LAnguage Model Analysis|
-
+|[torchlayers](https://github.com/szymonmaszke/torchlayers)|Shape inference for PyTorch (like in Keras) + new SoTA layers!|

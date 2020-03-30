@@ -18,3 +18,4 @@
 |[football](https://github.com/google-research/football)|This repository contains an RL environment based on open-source game Gameplay Football.|
 |[catalyst](https://github.com/catalyst-team/catalyst)|PyTorch framework for DL & RL research and development. It was developed with a focus on reproducibility, fast experimentation and code/ideas reusing. Being able to research/develop something new, rather than write another regular train loop.|
 |[TF-Agents](https://github.com/tensorflow/agents)|TF-Agents is a library for Reinforcement Learning in TensorFlow|
+|[tianshou](https://github.com/thu-ml/tianshou)|An elegant, flexible, and superfast PyTorch deep Reinforcement Learning platform. https://tianshou.readthedocs.io|

@@ -17,6 +17,6 @@
 |[hanzi_char_featurizer](https://github.com/howl-anderson/hanzi_char_featurizer)|汉字字符特征提取器 (featurizer)，提取汉字的特征（发音特征、字形特征）用做深度学习的特征|
 |[legalPapers](https://github.com/thunlp/LegalPapers)|Must-read Papers on Legal Intelligence|
 |[stanza](https://github.com/stanfordnlp/stanza)|Official Stanford NLP Python Library for Many Human Languages https://stanfordnlp.github.io/stanza/|
-
+|[delta](https://github.com/didi/delta)|DELTA is a deep learning based natural language and speech processing platform. https://delta-didi.readthedocs.io/|
 
 

@@ -13,7 +13,7 @@
 |[tpot](https://github.com/EpistasisLab/tpot)|A Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming. http://epistasislab.github.io/tpot/|
 |[ENAS-pytorch](https://github.com/carpedm20/ENAS-pytorch)|PyTorch implementation of "Efficient Neural Architecture Search via Parameters Sharing"|
 |[awesome-gradient-boosting-papers](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers)|A curated list of gradient boosting research papers with implementations.|
-
+|[AutoDL-Projects](https://github.com/D-X-Y/AutoDL-Projects)|Automated deep learning algorithms implemented in PyTorch or Tensorflow.|
 
 
 

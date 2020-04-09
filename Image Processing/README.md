@@ -22,7 +22,7 @@
 |[squoosh](https://github.com/GoogleChromeLabs/squoosh)|Make images smaller using best-in-class codecs, right in the browser. https://squoosh.app|
 |[Single-Image-Super-Resolution](https://github.com/YapengTian/Single-Image-Super-Resolution)|A collection of high-impact and state-of-the-art SR methods |
 |[caire](https://github.com/esimov/caire)|Content aware image resize library|
-
+|[ClassyVision](https://github.com/facebookresearch/ClassyVision)|An end-to-end PyTorch framework for image and video classification https://classyvision.ai|
 
 
 

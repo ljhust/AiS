@@ -6,5 +6,6 @@
 |[learn2learn](https://github.com/learnables/learn2learn)|PyTorch Meta-learning Framework for Researchers http://learn2learn.net|
 |[On First-Order Meta-Learning Algorithms](https://github.com/openai/supervised-reptile)|
 |[Awesome-Meta-Learning](https://github.com/sudharsan13296/Awesome-Meta-Learning)|
+|[meta-blocks](https://github.com/alshedivat/meta-blocks)|A modular toolbox for accelerating meta-learning research 🚀|
 
 

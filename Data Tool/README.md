@@ -18,3 +18,4 @@
 |[CleverCSV](https://github.com/alan-turing-institute/CleverCSV)|CleverCSV is a Python package for handling messy CSV files|
 |[pandas-profiling](https://github.com/pandas-profiling/pandas-profiling)|Create HTML profiling reports from pandas DataFrame objects|
 |[atlas](https://github.com/dessa-oss/atlas)|An Open Source, Self-Hosted Platform For Applied Deep Learning Development http://www.docs.atlas.dessa.com|
+|[Deepkit](https://www.weibo.com/mygroups?gid=3769648463997301&wvr=6&leftnav=1#1586863955908)|用于执行、跟踪和调试现代机器学习实验的开源平台和跨平台桌面应用程序|

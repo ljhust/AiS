@@ -7,5 +7,5 @@
 |[On First-Order Meta-Learning Algorithms](https://github.com/openai/supervised-reptile)|
 |[Awesome-Meta-Learning](https://github.com/sudharsan13296/Awesome-Meta-Learning)|
 |[meta-blocks](https://github.com/alshedivat/meta-blocks)|A modular toolbox for accelerating meta-learning research 🚀|
-
+|[MetaLearning4NLP-Papers](https://github.com/ha-lins/MetaLearning4NLP-Papers)|A list of recent papers about Meta / few-shot learning methods applied in NLP areas.|
 

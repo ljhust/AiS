@@ -23,10 +23,4 @@
 |[BicycleGAN](https://github.com/junyanz/BicycleGAN)|Toward Multimodal Image-to-Image Translation |
 |[DeepCreamPy](https://github.com/deeppomf/DeepCreamPy)|Decensoring Hentai with Deep Neural Networks|
 |[Anime-InPainting](https://github.com/youyuge34/Anime-InPainting)|An application tool of edge-connect, which can do anime inpainting and drawing. 动漫人物图片自动修复，去马赛克，填补，去瑕疵|
-
-
-
-
-
-
-
+|[Background-Matting](https://github.com/senguptaumd/Background-Matting)|Background Matting: The World is Your Green Screen|

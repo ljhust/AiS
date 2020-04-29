@@ -7,9 +7,4 @@
 |[bertsearch](https://github.com/Hironsan/bertsearch)|Elasticsearch with BERT for advanced document search.|
 |[milvus](https://github.com/milvus-io/milvus)|Milvus is an open source vector similarity search engine. |
 |[docsearch](https://github.com/algolia/docsearch)|📘 The easiest way to add search to your documentation.|
-
-
-
-
-
-
+|[jina](https://github.com/jina-ai/jina)|Jina is the cloud-native neural search framework powered by state-of-the-art AI and deep learning https://docs.jina.ai|

@@ -16,4 +16,5 @@
 |[hyperlearn](https://github.com/danielhanchen/hyperlearn)|50% faster, 50% less RAM Machine Learning. Numba rewritten Sklearn. SVD, NNMF, PCA, LinearReg, RidgeReg, Randomized, Truncated SVD/PCA, CSR Matrices all 50+% faster |
 |[webdnn](https://github.com/mil-tokyo/webdnn)|The Fastest DNN Running Framework on Web Browser|
 |[glow](https://github.com/pytorch/glow/)|Compiler for Neural Network hardware accelerators|
-
+|[TurboTransformers](https://github.com/Tencent/TurboTransformers)|a fast and user-friendly tool for transformer inference on CPU and GPU|
+|[POT](https://github.com/PythonOT/POT)|Python Optimal Transport library https://PythonOT.github.io/|

@@ -20,3 +20,4 @@
 |[atlas](https://github.com/dessa-oss/atlas)|An Open Source, Self-Hosted Platform For Applied Deep Learning Development http://www.docs.atlas.dessa.com|
 |[Deepkit](https://www.weibo.com/mygroups?gid=3769648463997301&wvr=6&leftnav=1#1586863955908)|用于执行、跟踪和调试现代机器学习实验的开源平台和跨平台桌面应用程序|
 |[kedro](https://github.com/quantumblacklabs/kedro)|A Python library that implements software engineering best-practice for data and ML pipelines. |
+|[fitlog](https://github.com/fastnlp/fitlog)|fitlog是一款在深度学习训练中用于辅助用户记录日志和管理代码的工具|

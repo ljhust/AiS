@@ -11,5 +11,4 @@
 |[akutan](https://github.com/eBay/akutan)|A distributed knowledge graph store|
 |[awesome-knowledge-graph](https://github.com/husthuke/awesome-knowledge-graph)|整理知识图谱相关学习资料|
 |[awesome-semantic-web](https://github.com/semantalytics/awesome-semantic-web)|A curated list of various semantic web and linked data resources.|
-
-
+|[kge](https://github.com/uma-pi1/kge)|LibKGE - A knowledge graph embedding library for reproducible research|

@@ -4,14 +4,4 @@
 |[Awesome image retrieval papers](https://github.com/willard-yuan/awesome-cbir-papers)|📝Awesome and classical image retrieval papers|
 |[imagededup](https://github.com/idealo/imagededup)|😎 Finding duplicate images made easy! https://idealo.github.io/imagededup/|
 |[DeepVideoAnalytics](https://github.com/AKSHAYUBHAT/DeepVideoAnalytics)|A distributed visual search and visual data analytics platform. https://www.deepvideoanalytics.com/|
-
-
-
-
-
-
-
-
-
-
-
+|[PyRetri](https://github.com/PyRetri/PyRetri)|Open source deep learning based image retrieval toolbox based on PyTorch🔥|

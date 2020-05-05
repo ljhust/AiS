@@ -18,3 +18,4 @@
 |[glow](https://github.com/pytorch/glow/)|Compiler for Neural Network hardware accelerators|
 |[TurboTransformers](https://github.com/Tencent/TurboTransformers)|a fast and user-friendly tool for transformer inference on CPU and GPU|
 |[POT](https://github.com/PythonOT/POT)|Python Optimal Transport library https://PythonOT.github.io/|
+|[aimet](https://github.com/quic/aimet)|AIMET is a library that provides advanced quantization and compression techniques for trained neural network models.|

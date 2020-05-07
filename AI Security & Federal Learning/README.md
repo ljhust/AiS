@@ -20,9 +20,6 @@
 |[awesome-blockchain-ai](https://github.com/steven2358/awesome-blockchain-ai)|A curated list of Blockchain projects for Artificial Intelligence and Machine Learning|
 |[federated](https://github.com/tensorflow/federated)|A framework for implementing federated learning|
 |[FATE](https://github.com/FederatedAI/FATE)|An Industrial Level Federated Learning Framework https://www.fedai.org/|
-
-
-
-
-
-
+|[graph-fraud-detection-papers](https://github.com/safe-graph/graph-fraud-detection-papers)|A curated list of fraud detection papers using graph information or graph neural networks|
+|[DGFraud](https://github.com/safe-graph/DGFraud)|A Deep Graph-based Toolbox for Fraud Detection|
+|[graph-adversarial-learning-literature](https://github.com/safe-graph/graph-adversarial-learning-literature)|A curated list of adversarial attacks and defenses papers on graph-structured data.|

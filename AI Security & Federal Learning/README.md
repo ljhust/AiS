@@ -23,3 +23,4 @@
 |[graph-fraud-detection-papers](https://github.com/safe-graph/graph-fraud-detection-papers)|A curated list of fraud detection papers using graph information or graph neural networks|
 |[DGFraud](https://github.com/safe-graph/DGFraud)|A Deep Graph-based Toolbox for Fraud Detection|
 |[graph-adversarial-learning-literature](https://github.com/safe-graph/graph-adversarial-learning-literature)|A curated list of adversarial attacks and defenses papers on graph-structured data.|
+|[ml_privacy_meter](https://github.com/privacytrustlab/ml_privacy_meter)|Machine Learning Privacy Meter: A tool to quantify the privacy risks of machine learning models with respect to inference attacks|

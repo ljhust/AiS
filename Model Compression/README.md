@@ -19,3 +19,4 @@
 |[TurboTransformers](https://github.com/Tencent/TurboTransformers)|a fast and user-friendly tool for transformer inference on CPU and GPU|
 |[POT](https://github.com/PythonOT/POT)|Python Optimal Transport library https://PythonOT.github.io/|
 |[aimet](https://github.com/quic/aimet)|AIMET is a library that provides advanced quantization and compression techniques for trained neural network models.|
+|[open_lth](https://github.com/facebookresearch/open_lth)|A repository in preparation for open-sourcing lottery ticket hypothesis code.|

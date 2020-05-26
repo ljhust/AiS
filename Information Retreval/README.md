@@ -8,3 +8,4 @@
 |[milvus](https://github.com/milvus-io/milvus)|Milvus is an open source vector similarity search engine. |
 |[docsearch](https://github.com/algolia/docsearch)|📘 The easiest way to add search to your documentation.|
 |[jina](https://github.com/jina-ai/jina)|Jina is the cloud-native neural search framework powered by state-of-the-art AI and deep learning https://docs.jina.ai|
+|[MeiliSearch](https://github.com/meilisearch/MeiliSearch)|Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine https://docs.meilisearch.com|

@@ -23,3 +23,4 @@
 |[fitlog](https://github.com/fastnlp/fitlog)|fitlog是一款在深度学习训练中用于辅助用户记录日志和管理代码的工具|
 |[determined](https://github.com/determined-ai/determined)|Determined: Deep Learning Training Platform https://determined.ai/developers|
 |[datahub](https://github.com/linkedin/datahub)|A Generalized Metadata Search & Discovery Tool|
+|[cortex](https://github.com/cortexlabs/cortex)|Machine learning model serving infrastructure https://cortex.dev|

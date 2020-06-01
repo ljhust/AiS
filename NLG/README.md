@@ -12,12 +12,4 @@
 |[textgenrnn](https://github.com/minimaxir/textgenrnn)|Easily train your own text-generating neural network of any size and complexity on any text dataset with a few lines of code.|
 |[texar](https://github.com/asyml/texar)|Toolkit for Machine Learning, Natural Language Processing, and Text Generation, in TensorFlow https://asyml.io|
 |[sentencepiece](https://github.com/google/sentencepiece)|Unsupervised text tokenizer for Neural Network-based text generation.|
-
-
-
-
-
-
-
-
-
+|[text-to-handwriting](https://github.com/saurabhdaware/text-to-handwriting)|So your teacher asked you to upload written assignments on ERP? Hate writing assigments? This tool will help you convert your text to handwriting xD|

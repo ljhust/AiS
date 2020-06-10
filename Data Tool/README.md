@@ -24,3 +24,4 @@
 |[determined](https://github.com/determined-ai/determined)|Determined: Deep Learning Training Platform https://determined.ai/developers|
 |[datahub](https://github.com/linkedin/datahub)|A Generalized Metadata Search & Discovery Tool|
 |[cortex](https://github.com/cortexlabs/cortex)|Machine learning model serving infrastructure https://cortex.dev|
+|[hydra](https://github.com/facebookresearch/hydra)|Hydra is a framework for elegantly configuring complex applications https://hydra.cc|

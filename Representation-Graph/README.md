@@ -9,4 +9,4 @@
 |[graphvite](https://github.com/DeepGraphLearning/graphvite)|GraphVite: A General and High-performance Graph Embedding System https://graphvite.io|
 |[Representation-Learning-on-Heterogeneous-Graph](https://github.com/Jhy1993/Representation-Learning-on-Heterogeneous-Graph)|
 |[AmpliGraph](https://github.com/Accenture/AmpliGraph)|Python library for Representation Learning on Knowledge Graphs|
-
+|[AmpliGraph](https://github.com/Accenture/AmpliGraph)|Python library for Representation Learning on Knowledge Graphs https://docs.ampligraph.org|	

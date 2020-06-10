@@ -19,3 +19,4 @@
 |[catalyst](https://github.com/catalyst-team/catalyst)|PyTorch framework for DL & RL research and development. It was developed with a focus on reproducibility, fast experimentation and code/ideas reusing. Being able to research/develop something new, rather than write another regular train loop.|
 |[TF-Agents](https://github.com/tensorflow/agents)|TF-Agents is a library for Reinforcement Learning in TensorFlow|
 |[tianshou](https://github.com/thu-ml/tianshou)|An elegant, flexible, and superfast PyTorch deep Reinforcement Learning platform. https://tianshou.readthedocs.io|
+|[acme](https://github.com/deepmind/acme?u=1661452664&m=4511598552679151&cu=1661452664)|A library of reinforcement learning components and agents|

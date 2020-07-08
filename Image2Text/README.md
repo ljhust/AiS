@@ -20,3 +20,4 @@
 |[image-text-localization-recognition](https://github.com/whitelok/image-text-localization-recognition/blob/master/README.zh-cn.md)|场景文本位置感知与识别的论文资源汇总|
 |[JaidedRead](https://github.com/JaidedAI/JaidedRead)|End-to-End Multilingual Optical Character Recognition (OCR) Solution|
 |[Transformer-OCR](https://github.com/fengxinjie/Transformer-OCR)|
+|[invoice](https://github.com/guanshuicheng/invoice)|增值税发票OCR识别，使用flask微服务架构，识别type：增值税电子普通发票，增值税普通发票，增值税专用发票；识别字段为：发票代码、发票号码、开票日期、校验码、税后金额等|

@@ -7,4 +7,4 @@
 |[UnsupervisedMT](https://github.com/facebookresearch/UnsupervisedMT)|Phrase-Based & Neural Unsupervised Machine Translation|
 |[fairseq](https://github.com/pytorch/fairseq)|Facebook AI Research Sequence-to-Sequence Toolkit written in Python.|
 |[marian](https://github.com/marian-nmt/marian)|Fast Neural Machine Translation in C++ https://marian-nmt.github.io|
-
+|[translators](https://github.com/UlionTse/translators)|🌏🌍🌎Translators🌎🌍🌏 is a library which aims to bring free, multiple, enjoyable translation to individuals and students in Python. Translators是一个旨在用Python为个人和学生带来免费、多样、愉快翻译的库。|

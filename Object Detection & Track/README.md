@@ -21,7 +21,4 @@
 |[detectron2](https://github.com/facebookresearch/detectron2)|Detectron2 is FAIR's next-generation platform for object detection and segmentation.|
 |[pytracking](https://github.com/visionml/pytracking)|Visual tracking library based on PyTorch.|
 |[Awesome-Edge-Detection-Papers](https://github.com/MarkMoHR/Awesome-Edge-Detection-Papers)|
-
-
-
-
+|[AdelaiDet](https://github.com/aim-uofa/AdelaiDet)|AdelaiDet is an open source toolbox for multiple instance-level detection and recognition tasks. https://git.io/AdelaiDet|

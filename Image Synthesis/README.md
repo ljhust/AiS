@@ -25,3 +25,4 @@
 |[Anime-InPainting](https://github.com/youyuge34/Anime-InPainting)|An application tool of edge-connect, which can do anime inpainting and drawing. 动漫人物图片自动修复，去马赛克，填补，去瑕疵|
 |[Background-Matting](https://github.com/senguptaumd/Background-Matting)|Background Matting: The World is Your Green Screen|
 |[genetic-drawing](https://github.com/anopara/genetic-drawing)|A genetic algorithm toy project for drawing|
+|[pulse](https://github.com/adamian98/pulse)|PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models|

@@ -25,3 +25,5 @@
 |[datahub](https://github.com/linkedin/datahub)|A Generalized Metadata Search & Discovery Tool|
 |[cortex](https://github.com/cortexlabs/cortex)|Machine learning model serving infrastructure https://cortex.dev|
 |[hydra](https://github.com/facebookresearch/hydra)|Hydra is a framework for elegantly configuring complex applications https://hydra.cc|
+|[BentoML](https://github.com/bentoml/BentoML)|Model Serving Made Easy https://bentoml.org|
+|[cml](https://github.com/iterative/cml)|CML - Continuous Machine Learning or CI/CD for ML|

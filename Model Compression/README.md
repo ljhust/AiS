@@ -21,3 +21,4 @@
 |[aimet](https://github.com/quic/aimet)|AIMET is a library that provides advanced quantization and compression techniques for trained neural network models.|
 |[open_lth](https://github.com/facebookresearch/open_lth)|A repository in preparation for open-sourcing lottery ticket hypothesis code.|
 |[checkmate](https://github.com/parasj/checkmate?u=1661452664&m=4511458685814429&cu=1661452664)|Training neural networks in TensorFlow 2.0 with 5x less memory|
+|[wezterm](https://github.com/wez/wezterm)|A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust https://wezfurlong.org/wezterm/|

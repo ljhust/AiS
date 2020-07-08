@@ -20,3 +20,4 @@
 |[TF-Agents](https://github.com/tensorflow/agents)|TF-Agents is a library for Reinforcement Learning in TensorFlow|
 |[tianshou](https://github.com/thu-ml/tianshou)|An elegant, flexible, and superfast PyTorch deep Reinforcement Learning platform. https://tianshou.readthedocs.io|
 |[acme](https://github.com/deepmind/acme?u=1661452664&m=4511598552679151&cu=1661452664)|A library of reinforcement learning components and agents|
+|[dm_control](https://github.com/deepmind/dm_control/)|DeepMind's software stack for physics-based simulation and Reinforcement Learning environments, using MuJoCo|

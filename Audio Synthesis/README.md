@@ -11,13 +11,5 @@
 |[Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)|Clone a voice in 5 seconds to generate arbitrary speech in real-time|
 |[awesome-python-scientific-audio](https://github.com/faroit/awesome-python-scientific-audio)|
 |[spleeter](https://github.com/deezer/spleeter)|Deezer source separation library including pretrained models. |
-
-
-
-
-
-
-
-
-
-
+|[TensorflowTTS](https://github.com/TensorSpeech/TensorflowTTS)|😝 TensorflowTTS: Real-Time State-of-the-art Speech Synthesis for Tensorflow 2|
+|[cadmus](https://github.com/josh-richardson/cadmus)|A GUI frontend for @werman's Pulse Audio real-time noise suppression plugin|

@@ -19,3 +19,4 @@
 |[awesome-time-series-database](https://github.com/xephonhq/awesome-time-series-database)|
 |[GPy](https://github.com/SheffieldML/GPy)|Gaussian processes framework in python|
 |[tslearn](https://github.com/tslearn-team/tslearn)|A machine learning toolkit dedicated to time-series data|
+|[stocktwits](https://github.com/microsoft/forecasting)|Time Series Forecasting Best Practices & Examples|

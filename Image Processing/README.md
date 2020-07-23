@@ -24,3 +24,4 @@
 |[caire](https://github.com/esimov/caire)|Content aware image resize library|
 |[ClassyVision](https://github.com/facebookresearch/ClassyVision)|An end-to-end PyTorch framework for image and video classification https://classyvision.ai|
 |[fast-reid](https://github.com/JDAI-CV/fast-reid)|[WIP] SOTA ReID Methods and Toolbox|
+|[CV-pretrained-model](https://github.com/balavenkatesh3322/CV-pretrained-model)|A collection of computer vision pre-trained models.|

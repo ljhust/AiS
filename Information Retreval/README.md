@@ -9,3 +9,5 @@
 |[docsearch](https://github.com/algolia/docsearch)|📘 The easiest way to add search to your documentation.|
 |[jina](https://github.com/jina-ai/jina)|Jina is the cloud-native neural search framework powered by state-of-the-art AI and deep learning https://docs.jina.ai|
 |[MeiliSearch](https://github.com/meilisearch/MeiliSearch)|Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine https://docs.meilisearch.com|
+|[RediSearch](https://github.com/RediSearch/RediSearch/)|Fulltext Search and Secondary Index module for Redis|
+|[fess](https://github.com/codelibs/fess)|Fess is very powerful and easily deployable Enterprise Search Server.|

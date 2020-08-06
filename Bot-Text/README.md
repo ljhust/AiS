@@ -14,3 +14,4 @@
 |[rasa-ui](https://github.com/paschmann/rasa-ui)|
 |[Chatbot_CN](https://github.com/charlesXu86/Chatbot_CN)|基于金融-司法领域(兼有闲聊性质)的聊天机器人，其中的主要模块有信息抽取、NLU、NLG、知识图谱等，并且利用Django整合了前端展示,目前已经封装了nlp和kg的restful接口|
 |[olivia](https://github.com/olivia-ai/olivia)|💁‍♀️Your new best friend powered by an artificial neural network https://olivia-ai.org|
+|[nonebot](https://github.com/nonebot/nonebot)|基于 酷Q 的 Python 异步 QQ 机器人框架|

@@ -18,5 +18,4 @@
 |[legalPapers](https://github.com/thunlp/LegalPapers)|Must-read Papers on Legal Intelligence|
 |[stanza](https://github.com/stanfordnlp/stanza)|Official Stanford NLP Python Library for Many Human Languages https://stanfordnlp.github.io/stanza/|
 |[delta](https://github.com/didi/delta)|DELTA is a deep learning based natural language and speech processing platform. https://delta-didi.readthedocs.io/|
-
-
+|[carrot2](https://github.com/carrot2/carrot2)|Carrot2: Text Clustering Algorithms and Applications|

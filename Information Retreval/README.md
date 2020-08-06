@@ -11,3 +11,4 @@
 |[MeiliSearch](https://github.com/meilisearch/MeiliSearch)|Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine https://docs.meilisearch.com|
 |[RediSearch](https://github.com/RediSearch/RediSearch/)|Fulltext Search and Secondary Index module for Redis|
 |[fess](https://github.com/codelibs/fess)|Fess is very powerful and easily deployable Enterprise Search Server.|
+|[awesome-elasticsearch](https://github.com/dzharii/awesome-elasticsearch)|A curated list of the most important and useful resources about elasticsearch: articles, videos, blogs, tips and tricks, use cases. All about Elasticsearch!|

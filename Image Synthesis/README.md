@@ -26,3 +26,4 @@
 |[Background-Matting](https://github.com/senguptaumd/Background-Matting)|Background Matting: The World is Your Green Screen|
 |[genetic-drawing](https://github.com/anopara/genetic-drawing)|A genetic algorithm toy project for drawing|
 |[pulse](https://github.com/adamian98/pulse)|PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models|
+|[photo2cartoon](https://github.com/minivision-ai/photo2cartoon)|人像卡通化探索项目 (photo-to-cartoon translation project)|

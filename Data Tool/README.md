@@ -27,3 +27,5 @@
 |[hydra](https://github.com/facebookresearch/hydra)|Hydra is a framework for elegantly configuring complex applications https://hydra.cc|
 |[BentoML](https://github.com/bentoml/BentoML)|Model Serving Made Easy https://bentoml.org|
 |[cml](https://github.com/iterative/cml)|CML - Continuous Machine Learning or CI/CD for ML|
+|[prefect](https://github.com/PrefectHQ/prefect)|The easiest way to automate your data|
+|[orchest](https://github.com/orchest/orchest)|Orchest is a tool for creating data science pipelines.|

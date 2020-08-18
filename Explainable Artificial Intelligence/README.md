@@ -9,8 +9,4 @@
 |[lucid](https://github.com/tensorflow/lucid)|A collection of infrastructure and tools for research in neural network interpretability|
 |[dtreeviz](https://github.com/parrt/dtreeviz)|A python library for decision tree visualization and model interpretation.|
 |[awesome-decision-tree-papers](https://github.com/benedekrozemberczki/awesome-decision-tree-papers)|A collection of research papers on decision, classification and regression trees with implementations.|
-
-
-
-
-
+|[lit](https://github.com/PAIR-code/lit)|The Language Interpretability Tool: Interactively analyze NLP models for model understanding in an extensible and framework agnostic interface.|

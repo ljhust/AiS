@@ -29,3 +29,5 @@
 |[cml](https://github.com/iterative/cml)|CML - Continuous Machine Learning or CI/CD for ML|
 |[prefect](https://github.com/PrefectHQ/prefect)|The easiest way to automate your data|
 |[orchest](https://github.com/orchest/orchest)|Orchest is a tool for creating data science pipelines.|
+|[awesome-mlops](https://github.com/visenger/awesome-mlops)|An awesome list of references for MLOps - Machine Learning Operations|
+|[submarine](https://github.com/apache/submarine)|Submarine is Cloud Native Machine Learning Platform.|

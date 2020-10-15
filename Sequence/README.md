@@ -22,3 +22,4 @@
 |[stocktwits](https://github.com/microsoft/forecasting)|Time Series Forecasting Best Practices & Examples|
 |[zipkin](https://github.com/openzipkin/zipkin)|Zipkin is a distributed tracing system|
 |[m3](https://github.com/m3db/m3)|M3 monorepo - Distributed TSDB, Aggregator and Query Engine, Prometheus Sidecar, Graphite Compatible, Metrics Platform|
+|[sktime](https://github.com/alan-turing-institute/sktime)|A unified toolbox for machine learning with time series|

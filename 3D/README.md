@@ -11,7 +11,4 @@
 |[kaolin](https://github.com/NVIDIAGameWorks/kaolin/)|A PyTorch Library for Accelerating 3D Deep Learning Research|
 |[pytorch3d](https://github.com/facebookresearch/pytorch3d)|PyTorch3D is FAIR's library of reusable components for deep learning with 3D data https://pytorch3d.org/|
 |[PointCNN: Convolution On X-Transformed Points (NeurIPS 2018) ](https://github.com/yangyanli/PointCNN)|
-
-
-
-
+|[pytorch3d](https://github.com/facebookresearch/pytorch3d)|PyTorch3D is FAIR's library of reusable components for deep learning with 3D data|

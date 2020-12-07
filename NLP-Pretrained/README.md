@@ -10,5 +10,4 @@
 |[transformers](https://github.com/huggingface/transformers)|🤗 Transformers: State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch. https://huggingface.co/transformers|
 |[bertviz](https://github.com/jessevig/bertviz)|Tool for visualizing attention in the Transformer model (BERT, GPT-2, Albert, XLNet, RoBERTa, CTRL, etc.)|
 |[gpt-2](https://github.com/openai/gpt-2)|Code for the paper "Language Models are Unsupervised Multitask Learners" |
-
-
+|[FinBERT](https://github.com/valuesimplex/FinBERT)|首个在金融领域大规模语料上训练的开源中文BERT预训练模型|

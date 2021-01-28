@@ -12,5 +12,6 @@
 |[RediSearch](https://github.com/RediSearch/RediSearch/)|Fulltext Search and Secondary Index module for Redis|
 |[fess](https://github.com/codelibs/fess)|Fess is very powerful and easily deployable Enterprise Search Server.|
 |[awesome-elasticsearch](https://github.com/dzharii/awesome-elasticsearch)|A curated list of the most important and useful resources about elasticsearch: articles, videos, blogs, tips and tricks, use cases. All about Elasticsearch!|
-|[txtai](https://github.com/neuml/txtai)|AI-powered search engine|
 |[MeiliSearch](https://github.com/meilisearch/MeiliSearch)|Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine|
+|[txtai](https://github.com/neuml/txtai)|txtai builds an AI-powered index over sections of text. txtai supports building text indices to perform similarity searches and create extractive question-answering based systems. txtai also has functionality for zero-shot classification.|
+|[typesense](https://github.com/typesense/typesense)|Fast, typo tolerant, fuzzy search engine for building delightful search experiences.|

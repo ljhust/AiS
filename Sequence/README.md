@@ -23,3 +23,5 @@
 |[zipkin](https://github.com/openzipkin/zipkin)|Zipkin is a distributed tracing system|
 |[m3](https://github.com/m3db/m3)|M3 monorepo - Distributed TSDB, Aggregator and Query Engine, Prometheus Sidecar, Graphite Compatible, Metrics Platform|
 |[sktime](https://github.com/alan-turing-institute/sktime)|A unified toolbox for machine learning with time series|
+|[sktime-dl](https://github.com/sktime/sktime-dl)|sktime companion package for deep learning based on TensorFlow|
+|[pytorch-forecasting](https://github.com/jdb78/pytorch-forecasting)|Time series forecasting with PyTorch|

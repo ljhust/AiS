@@ -25,3 +25,4 @@
 |[sktime](https://github.com/alan-turing-institute/sktime)|A unified toolbox for machine learning with time series|
 |[sktime-dl](https://github.com/sktime/sktime-dl)|sktime companion package for deep learning based on TensorFlow|
 |[pytorch-forecasting](https://github.com/jdb78/pytorch-forecasting)|Time series forecasting with PyTorch|
+|[darts](https://github.com/unit8co/darts)|A python library for easy manipulation and forecasting of time series.|

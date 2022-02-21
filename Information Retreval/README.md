@@ -16,3 +16,4 @@
 |[txtai](https://github.com/neuml/txtai)|txtai builds an AI-powered index over sections of text. txtai supports building text indices to perform similarity searches and create extractive question-answering based systems. txtai also has functionality for zero-shot classification.|
 |[typesense](https://github.com/typesense/typesense)|Fast, typo tolerant, fuzzy search engine for building delightful search experiences.|
 |[awesome-vector-search](https://github.com/currentsapi/awesome-vector-search)|Collections of vector search related libraries, service and research papers|
+|[zinc](https://github.com/prabhatsharma/zinc)|Zinc Search engine. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.|

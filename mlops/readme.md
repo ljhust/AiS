@@ -6,3 +6,4 @@
 |[BentoML](https://github.com/bentoml)|BentoML is an open platform that simplifies ML model deployment and enables you to serve your models at production scale in minutes|
 |[awesome-mlops](https://github.com/kelvins/awesome-mlops)| curated list of awesome MLOps tools|
 |[MLOps-Basics](https://github.com/graviraja/MLOps-Basics)|MLOps-Basics|
+|[gradio](https://github.com/gradio-app/gradio)|Create UIs for your machine learning model in Python in 3 minutes|

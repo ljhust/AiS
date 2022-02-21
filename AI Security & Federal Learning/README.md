@@ -28,3 +28,5 @@
 |[adversarial-robustness-toolbox](https://github.com/Trusted-AI/adversarial-robustness-toolbox)|对抗性鲁棒性工具箱（ART）是用于机器学习安全性的Python库。 ART提供的工具使开发人员和研究人员可以针对以下方面评估，捍卫，认证和验证机器学习模型和应用程序： 逃避，中毒，提取和推断的对抗性威胁。 ART支持所有数据类型的所有流行的机器学习框架（TensorFlow，Keras，PyTorch，MXNet，scikit-learn，XGBoost，LightGBM，CatBoost，GPy等） （图像，表格，音频，视频等）和机器学习任务（分类，对象检测，生成，认证等）。|
 |[opacus](https://github.com/pytorch/opacus)|Training PyTorch models with differential privacy|
 |[AI-Security-Learning](https://github.com/0xMJ/AI-Security-Learning)|自身学习的安全数据科学和算法的学习资料|
+|[incubator-teaclave](https://github.com/apache/incubator-teaclave)|Apache Teaclave (incubating) is an open source universal secure computing platform, making computation on privacy-sensitive data safe and simple.|
+|[asylo](https://github.com/google/asylo)|An open and flexible framework for developing enclave applications|

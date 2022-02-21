@@ -6,7 +6,7 @@
 |[Awesome Math](https://github.com/llSourcell/learn_math_fast)|
 |[Variational Inference: A Review for Statisticians](https://arxiv.org/abs/1601.00670)|
 |[torchdiffeq](https://github.com/rtqichen/torchdiffeq)|Differentiable ODE solvers with full GPU support and O(1)-memory backpropagation.|
-
+|[cvxpy](https://github.com/cvxpy/cvxpy)|A Python-embedded modeling language for convex optimization problems.|
 
 
 

@@ -7,3 +7,4 @@
 |[awesome-mlops](https://github.com/kelvins/awesome-mlops)| curated list of awesome MLOps tools|
 |[MLOps-Basics](https://github.com/graviraja/MLOps-Basics)|MLOps-Basics|
 |[gradio](https://github.com/gradio-app/gradio)|Create UIs for your machine learning model in Python in 3 minutes|
+|[ploomber](https://github.com/ploomber/ploomber)|The fastest ⚡️ way to build data pipelines. Develop iteratively, deploy anywhere. ☁️|

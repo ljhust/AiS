@@ -31,6 +31,7 @@
 |  [awesome-mlops](https://github.com/visenger/awesome-mlops)  | An awesome list of references for MLOps - Machine Learning Operations |
 |       [submarine](https://github.com/apache/submarine)       | Submarine is Cloud Native Machine Learning Platform.         |
 |        [alluxio](https://github.com/Alluxio/alluxio)         | Alluxio, data orchestration for analytics and machine learning in the cloud |
+|[SynapseML](https://github.com/microsoft/SynapseML)|Simple and Distributed Machine Learning|
 | [awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning#feature-stores) | A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning |
 |[mlops-platforms](https://github.com/thoughtworks/mlops-platforms)|Compare MLOps Platforms. Breakdowns of SageMaker, VertexAI, AzureML, Dataiku, Databricks, h2o, kubeflow, mlflow...|
 |[flyte](https://github.com/flyteorg/flyte)|Kubernetes-native workflow automation platform for complex, mission-critical data and ML processes at scale. It has been battle-tested at Lyft, Spotify, Freenome, and others and is truly open-source.|

@@ -9,3 +9,4 @@
 |[gradio](https://github.com/gradio-app/gradio)|Create UIs for your machine learning model in Python in 3 minutes|
 |[ploomber](https://github.com/ploomber/ploomber)|The fastest ⚡️ way to build data pipelines. Develop iteratively, deploy anywhere. ☁️|
 |[awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning#feature-stores)|A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning|
+|[MLOps_roadmap_and_curriculum](https://github.com/trojrobert/MLOps_roadmap_and_curriculum)|Curriculum and roadmap from 0 to Mastery for MLOps. Adding value to your machine learning model by deploying it for people to use it to solve real life problems|

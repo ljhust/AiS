@@ -44,3 +44,4 @@
 |[awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning#feature-stores)|A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning|
 |[MLOps_roadmap_and_curriculum](https://github.com/trojrobert/MLOps_roadmap_and_curriculum)|Curriculum and roadmap from 0 to Mastery for MLOps. Adding value to your machine learning model by deploying it for people to use it to solve real life problems|
 |[vector](https://github.com/vectordotdev/vector)|A high-performance observability data pipeline.|
+|[zenml](https://github.com/zenml-io/zenml)|ZenML 🙏: MLOps framework to create reproducible pipelines.|

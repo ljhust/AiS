@@ -45,3 +45,4 @@
 |[MLOps_roadmap_and_curriculum](https://github.com/trojrobert/MLOps_roadmap_and_curriculum)|Curriculum and roadmap from 0 to Mastery for MLOps. Adding value to your machine learning model by deploying it for people to use it to solve real life problems|
 |[vector](https://github.com/vectordotdev/vector)|A high-performance observability data pipeline.|
 |[zenml](https://github.com/zenml-io/zenml)|ZenML 🙏: MLOps framework to create reproducible pipelines.|
+|[transformer-deploy](https://github.com/ELS-RD/transformer-deploy)|Efficient, scalable and enterprise-grade CPU/GPU inference server for 🤗 Hugging Face transformer models 🚀|

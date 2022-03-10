@@ -31,6 +31,9 @@
 |  [awesome-mlops](https://github.com/visenger/awesome-mlops)  | An awesome list of references for MLOps - Machine Learning Operations |
 |       [submarine](https://github.com/apache/submarine)       | Submarine is Cloud Native Machine Learning Platform.         |
 |        [alluxio](https://github.com/Alluxio/alluxio)         | Alluxio, data orchestration for analytics and machine learning in the cloud |
+|[ymir](https://github.com/IndustryEssentials/ymir)|YMIR(You Mine In Recursion)是一个简化的模型开发产品，专注于AI SUITE开源系列中的数据集版本和模型迭代。|
+
+
 |[SynapseML](https://github.com/microsoft/SynapseML)|Simple and Distributed Machine Learning|
 | [awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning#feature-stores) | A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning |
 |[mlops-platforms](https://github.com/thoughtworks/mlops-platforms)|Compare MLOps Platforms. Breakdowns of SageMaker, VertexAI, AzureML, Dataiku, Databricks, h2o, kubeflow, mlflow...|

@@ -23,3 +23,4 @@
 |[checkmate](https://github.com/parasj/checkmate?u=1661452664&m=4511458685814429&cu=1661452664)|Training neural networks in TensorFlow 2.0 with 5x less memory|
 |[wezterm](https://github.com/wez/wezterm)|A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust https://wezfurlong.org/wezterm/|
 |[micronet](https://github.com/666DZY666/micronet)|micronet, a model compression and deploy lib. compression: 1、quantization: quantization-aware-training(QAT), High-Bit(>2b)(DoReFa/Quantization and Training of Neural Networks for Efficient Integer-Arithmetic-Only Inference)、Low-Bit(≤2b)/Ternary and Binary(TWN/BNN/XNOR-Net); post-training-quantization(PTQ), 8-bit(tensorrt); 2、 pruning: normal、reg…|
+|[nncf](https://github.com/openvinotoolkit/nncf)|Neural Network Compression Framework for enhanced OpenVINO™ inference|

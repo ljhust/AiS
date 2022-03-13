@@ -49,5 +49,18 @@
 |[ymir](https://github.com/IndustryEssentials/ymir)|YMIR(You Mine In Recursion)是一个简化的模型开发产品，专注于AI SUITE开源系列中的数据集版本和模型迭代。|
 |[superset](https://github.com/apache/superset)|Apache Superset is a Data Visualization and Data Exploration Platform|
 |[river](https://github.com/online-ml/river)|Online machine learning in Python|
+|[kubeflow](https://github.com/kubeflow/kubeflow)|Machine Learning Toolkit for Kubernetes|
+
+
+
+
+
+
+
+
+
+
+
+
 
 

@@ -5,3 +5,4 @@
 |[ElGrapho](https://github.com/ericdrowell/ElGrapho)|El Grapho is a high performance WebGL graph data visualization engine. El Grapho can support millions of interactive nodes and edges in any modern browser.|
 |[iodide](https://github.com/iodide-project/iodide)|Literate scientific computing and communication for the web|
 |[superset](https://github.com/apache/superset)|Apache Superset is a Data Visualization and Data Exploration Platform|
+|[dataease](https://github.com/dataease/dataease)|人人可用的开源数据可视化分析工具。|

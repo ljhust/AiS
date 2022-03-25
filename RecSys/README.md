@@ -14,3 +14,4 @@
 |[Datasets-for-Recommender-Systems](https://github.com/caserec/Datasets-for-Recommender-Systems)|This is a repository of a topic-centric public data sources in high quality for Recommender Systems (RS)|
 |[gorse](https://github.com/zhenghaoz/gorse)|An open source recommender system service written in Go|
 |[QRec](https://github.com/Coder-Yu/QRec)|QRec: A Python Framework for quick implementation of recommender systems (TensorFlow Based)|
+|[AI-RecommenderSystem](https://github.com/zhongqiangwu960812/AI-RecommenderSystem)|该仓库尝试整理推荐系统领域的一些经典算法模型|

@@ -12,3 +12,5 @@
 |[gpt-2](https://github.com/openai/gpt-2)|Code for the paper "Language Models are Unsupervised Multitask Learners" |
 |[FinBERT](https://github.com/valuesimplex/FinBERT)|首个在金融领域大规模语料上训练的开源中文BERT预训练模型|
 |[sentence-transformers](https://github.com/UKPLab/sentence-transformers)|Multilingual Sentence & Image Embeddings with BERT|
+|[awesome-gpt3](https://github.com/elyase/awesome-gpt3)||
+|[Awesome-CLIP](https://github.com/yzhuoning/Awesome-CLIP)|Awesome list for research on CLIP (Contrastive Language-Image Pre-Training).|

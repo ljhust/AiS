@@ -30,3 +30,16 @@
 |[AI-Security-Learning](https://github.com/0xMJ/AI-Security-Learning)|自身学习的安全数据科学和算法的学习资料|
 |[incubator-teaclave](https://github.com/apache/incubator-teaclave)|Apache Teaclave (incubating) is an open source universal secure computing platform, making computation on privacy-sensitive data safe and simple.|
 |[asylo](https://github.com/google/asylo)|An open and flexible framework for developing enclave applications|
+|[snarkVM](https://github.com/AleoHQ/snarkVM)|A Virtual Machine for Zero-Knowledge Executions|
+
+
+
+
+
+
+
+
+
+
+
+

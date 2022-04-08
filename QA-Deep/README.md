@@ -8,7 +8,7 @@
 |[awesome-question-answering](https://github.com/dapurv5/awesome-question-answering)|Resources, datasets, papers on Question Answering|
 |[AnyQ](https://github.com/baidu/AnyQ)|FAQ-based Question Answering System|
 |[Question-Answering-Albert-Electra](https://github.com/renatoviolin/Question-Answering-Albert-Electra)|Question Answering using Albert and Electra|
-
+|[square-core](https://github.com/UKP-SQuARE/square-core)|SQuARE: Software for question answering research.|
 
 
 

@@ -8,3 +8,4 @@
 |[skope-rules](https://github.com/scikit-learn-contrib/skope-rules)|||machine learning with logical rules in Python http://skope-rules.readthedocs.io|
 |[NL2LF](https://github.com/BaeSeulki/NL2LF)|||The Resources for "Natural Language to Logical Form" Research; "自然语言转逻辑形式"研究资料收集。|
 |[SymbolicMathematics](https://github.com/facebookresearch/SymbolicMathematics)|Deep Learning for Symbolic Mathematics|
+|[chaos_genius](https://github.com/chaos-genius/chaos_genius)|ML powered analytics engine for outlier detection and root cause analysis.|

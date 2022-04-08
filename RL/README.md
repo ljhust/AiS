@@ -13,7 +13,7 @@
 |[pytorch-a2c-ppo-acktr-gail](https://github.com/ikostrikov/pytorch-a2c-ppo-acktr-gail)|PyTorch implementation of Advantage Actor Critic (A2C), Proximal Policy Optimization (PPO), Scalable trust-region method for deep reinforcement learning using Kronecker-factored approximation (ACKTR) and Generative Adversarial Imitation Learning (GAIL).|
 |[Deep-Reinforcement-Learning-Algorithms-with-PyTorch](https://github.com/p-christ/Deep-Reinforcement-Learning-Algorithms-with-PyTorch)|
 |[whynot](https://github.com/zykls/whynot)|A Python sandbox for decision making in dynamics|
-
+|[AI-Optimizer](https://github.com/TJU-DRL-LAB/AI-Optimizer)|The next generation deep reinforcement learning tookit|
 
 
 

@@ -31,8 +31,7 @@
 |[incubator-teaclave](https://github.com/apache/incubator-teaclave)|Apache Teaclave (incubating) is an open source universal secure computing platform, making computation on privacy-sensitive data safe and simple.|
 |[asylo](https://github.com/google/asylo)|An open and flexible framework for developing enclave applications|
 |[snarkVM](https://github.com/AleoHQ/snarkVM)|A Virtual Machine for Zero-Knowledge Executions|
-
-
+|[FedML](https://github.com/FedML-AI/FedML)|A Research-Industry integrated Federated Learning Library, backed by FedML, Inc (https://FedML.ai). Supporting distributed computing, mobile/IoT on-device training, and standalone simulation. Best Paper Award at NeurIPS 2020 Federated Learning workshop. Join our Slack Community:|
 
 
 

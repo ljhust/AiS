@@ -5,3 +5,4 @@
 |[dace](https://github.com/spcl/dace)|DaCe - Data Centric Parallel Programming|
 |[NeutronStarLite](https://github.com/Wangqge/NeutronStarLite)|a DISTRIBUTED gnn SYSTEM|
 |[flashlight](https://github.com/flashlight/flashlight)|A C++ standalone library for machine learning|
+|[nebullvm](https://github.com/nebuly-ai/nebullvm)|Easy-to-use library to boost AI inference leveraging multiple DL compilers|

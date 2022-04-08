@@ -6,3 +6,6 @@
 |[NeutronStarLite](https://github.com/Wangqge/NeutronStarLite)|a DISTRIBUTED gnn SYSTEM|
 |[flashlight](https://github.com/flashlight/flashlight)|A C++ standalone library for machine learning|
 |[nebullvm](https://github.com/nebuly-ai/nebullvm)|Easy-to-use library to boost AI inference leveraging multiple DL compilers|
+|[optimum-transformers](https://github.com/AlekseyKorshuk/optimum-transformers)|Accelerated NLP pipelines for fast inference on CPU and GPU. Built with Transformers, Optimum and ONNX Runtime.|
+
+

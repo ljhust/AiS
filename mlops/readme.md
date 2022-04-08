@@ -54,7 +54,7 @@
 |[growthbook](https://github.com/growthbook/growthbook)|Open Source Feature Flagging and A/B Testing Platform|
 |[Dubhe](https://gitee.com/zhijiangtianshu/Dubhe)|"天枢人工智能开源平台"（简称："天枢平台"）是由之江实验室牵头，联合北京一流科技等共同打造的具有自主知识产权的人工智能开源平台。整个平台由一站式AI模型开发平台、高性能深度学习框架和模型炼知框架三大子系统组成。 其中， "一站式AI模型开发平台"面向AI模型生产的生命周期，提供了包括数据处理、模型开发、模型训练和模型管理等功能，方便用户一站式构建AI算法。|
 |[cube-studio](https://github.com/tencentmusic/cube-studio)|云原生一站式机器学习平台，在线开发，分布式训练，超参搜索，推理服务|
-
+|[tangram](https://github.com/tangramdotdev/tangram)|Tangram makes it easy for programmers to train, deploy, and monitor machine learning models.|
 
 
 

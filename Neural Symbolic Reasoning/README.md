@@ -10,3 +10,4 @@
 |[SymbolicMathematics](https://github.com/facebookresearch/SymbolicMathematics)|Deep Learning for Symbolic Mathematics|
 |[chaos_genius](https://github.com/chaos-genius/chaos_genius)|ML powered analytics engine for outlier detection and root cause analysis.|
 |[symforce](https://github.com/symforce-org/symforce)|Fast symbolic computation, code generation, and nonlinear optimization for robotics|
+|[pyABC](https://github.com/ICB-DCM/pyABC)|distributed, likelihood-free inference|

@@ -10,3 +10,4 @@
 |[taichi](https://github.com/taichi-dev/taichi)|Productive & portable high-performance programming in Python.|
 |[polars](https://github.com/pola-rs/polars)|Fast multi-threaded DataFrame library in Rust Python Node.js|
 |[nebullvm](https://github.com/nebuly-ai/nebullvm)|Easy-to-use library to boost AI inference leveraging multiple DL compilers|
+|[TensorRT](https://github.com/NVIDIA/TensorRT)|TensorRT is a C++ library for high performance inference on NVIDIA GPUs and deep learning accelerators.|

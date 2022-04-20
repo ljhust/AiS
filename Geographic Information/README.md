@@ -8,4 +8,4 @@
 |[MetPy](https://github.com/Unidata/MetPy)|MetPy is a collection of tools in Python for reading, visualizing and performing calculations with weather data. https://unidata.github.io/MetPy|
 |[inmap](https://github.com/TalkingData/inmap)|大数据地理可视化 http://inmap.talkingdata.com|
 |[kepler.gl](https://github.com/keplergl/kepler.gl)|Kepler.gl is a powerful open source geospatial analysis tool for large-scale data sets. http://kepler.gl|
-
+|[geospatial-ml](https://github.com/giswqs/geospatial-ml)|A Python package for installing commonly used packages for geospatial analysis and machine learning with only one command.|

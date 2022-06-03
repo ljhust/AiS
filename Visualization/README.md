@@ -6,3 +6,4 @@
 |[iodide](https://github.com/iodide-project/iodide)|Literate scientific computing and communication for the web|
 |[superset](https://github.com/apache/superset)|Apache Superset is a Data Visualization and Data Exploration Platform|
 |[dataease](https://github.com/dataease/dataease)|人人可用的开源数据可视化分析工具。|
+|[perspective](https://github.com/finos/perspective/)|A data visualization and analytics component, especially well-suited for large and/or streaming datasets.|

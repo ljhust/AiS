@@ -5,3 +5,4 @@
 |[NIPS 2017 Paper "Prototypical Networks for Few-shot Learning"](https://github.com/jakesnell/prototypical-networks)|
 |[Zero-Shot Learning with GCN](https://github.com/JudyYe/zero-shot-gcn)|
 |[FewShotPapers](https://github.com/tata1661/FewShotPapers)|This repository contains few-shot learning (FSL) papers mentioned in our FSL survey.|
+|[FSL-Mate](https://github.com/tata1661/FSL-Mate)|FSL-Mate: A collection of resources for few-shot learning (FSL).|

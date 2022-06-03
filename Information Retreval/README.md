@@ -16,3 +16,4 @@
 |[typesense](https://github.com/typesense/typesense)|Fast, typo tolerant, fuzzy search engine for building delightful search experiences.|
 |[awesome-vector-search](https://github.com/currentsapi/awesome-vector-search)|Collections of vector search related libraries, service and research papers|
 |[zinc](https://github.com/prabhatsharma/zinc)|Zinc Search engine. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.|
+|[gofound](https://github.com/newpanjing/gofound)|GoFound GoLang Full text search go语言全文检索引擎 基于平衡二叉树+正排索引、倒排索引实现 可支持亿级数据，毫秒级查询。 使用简单，使用http接口，任何系统都可以使用。|

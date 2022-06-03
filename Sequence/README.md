@@ -28,5 +28,5 @@
 |[darts](https://github.com/unit8co/darts)|A python library for easy manipulation and forecasting of time series.|
 |[neuralforecast](https://github.com/Nixtla/neuralforecast)|Scalable and user friendly neural 🧠 forecasting algorithms for time series data 〰️.|
 |[orbit](https://github.com/uber/orbit)|A Python package for Bayesian forecasting with object-oriented design and probabilistic models under the hood.|
-
+|[lightseq](https://github.com/bytedance/lightseq)|LightSeq: A High Performance Library for Sequence Processing and Generation|
 

@@ -16,3 +16,4 @@
 |[DiCE](https://github.com/interpretml/DiCE)|Generate Diverse Counterfactual Explanations for any machine learning model.|
 |[gam-changer](https://github.com/interpretml/gam-changer)|Edit machine learning models to reflect human knowledge and values|
 |[imodels](https://github.com/csinva/imodels)|Interpretable ML package 🔍 for concise, transparent, and accurate predictive modeling (sklearn-compatible).|
+|[shapash](https://github.com/MAIF/shapash)|🔅 Shapash makes Machine Learning models transparent and understandable by everyone|

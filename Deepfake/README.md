@@ -11,3 +11,4 @@
 | [faceswap_pytorch](https://github.com/jinfagang/faceswap_pytorch) | NO | NA | Deep fake ready to train on any 2 pair dataset with higher resolution |
 | [Face X-ray for More General Face Forgery Detection](https://arxiv.org/abs/1912.13458) | | |  a novel image representation called face X-ray for detecting forgery in face images. |
 |[DeepFaceLab](https://github.com/iperov/DeepFaceLab)|DeepFaceLab is the leading software for creating deepfakes.|
+｜[dot](https://github.com/sensity-ai/dot)|The Deepfake Offensive Toolkit|

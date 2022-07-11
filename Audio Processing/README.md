@@ -15,3 +15,4 @@
 |[Realtime_PyAudio_FFT](https://github.com/tr1pzz/Realtime_PyAudio_FFT)|Realtime audio analysis in Python, using PyAudio and Numpy to extract and visualize FFT features from streaming audio.|
 |[AudioMass](https://github.com/pkalogiros/AudioMass)|Free full-featured web-based audio & waveform editing tool|
 |[klio](https://github.com/spotify/klio)|Smarter data pipelines for audio.|
+|[s3prl](https://github.com/s3prl/s3prl)|Self-Supervised Speech Pre-training and Representation Learning Toolkit.|

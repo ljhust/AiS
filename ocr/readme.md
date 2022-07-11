@@ -6,3 +6,4 @@
 |[TableMASTER-mmocr](https://github.com/JiaquanYe/TableMASTER-mmocr)|2nd solution of ICDAR 2021 Competition on Scientific Literature Parsing, Task B.|
 |[LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR)|pix2tex: Using a ViT to convert images of equations into LaTeX code.|
 |[Multi-Type-TD-TSR](https://github.com/Psarpei/Multi-Type-TD-TSR)|Extracting Tables from Document Images using a Multi-stage Pipeline for Table Detection and Table Structure Recognition:|
+|[layout-parser](https://github.com/Layout-Parser/layout-parser)|A Unified Toolkit for Deep Learning Based Document Image Analysis|

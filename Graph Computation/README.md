@@ -12,8 +12,7 @@
 |[GNNs-for-NLP](https://github.com/svjan5/GNNs-for-NLP)|Graph Neural Networks for Natural Language Processing tutorial at EMNLP 2019 and CODS-COMAD 2020|
 |[cogdl](https://github.com/THUDM/cogdl)|CogDL: An Extensive Research Toolkit for Graphs |
 |[plato](https://github.com/Tencent/plato)|腾讯高性能分布式图计算框架Plato|
-
-
+|[pytorch_geometric](https://github.com/pyg-team/pytorch_geometric)|Graph Neural Network Library for PyTorch|
 
 
 

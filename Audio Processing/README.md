@@ -16,3 +16,4 @@
 |[AudioMass](https://github.com/pkalogiros/AudioMass)|Free full-featured web-based audio & waveform editing tool|
 |[klio](https://github.com/spotify/klio)|Smarter data pipelines for audio.|
 |[s3prl](https://github.com/s3prl/s3prl)|Self-Supervised Speech Pre-training and Representation Learning Toolkit.|
+|[wenet](https://github.com/wenet-e2e/wenet)|Production First and Production Ready End-to-End Speech Recognition Toolkit|

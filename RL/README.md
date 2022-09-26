@@ -14,6 +14,6 @@
 |[Deep-Reinforcement-Learning-Algorithms-with-PyTorch](https://github.com/p-christ/Deep-Reinforcement-Learning-Algorithms-with-PyTorch)|
 |[whynot](https://github.com/zykls/whynot)|A Python sandbox for decision making in dynamics|
 |[AI-Optimizer](https://github.com/TJU-DRL-LAB/AI-Optimizer)|The next generation deep reinforcement learning tookit|
-
+|[Awesome-Pretrained-RL](https://github.com/YaoMarkMu/Awesome-Pretrained-RL)|This is a list of papers for Decision Making Pretrained Model. And the repository will be continuously updated to track the frontier researches.|
 
 

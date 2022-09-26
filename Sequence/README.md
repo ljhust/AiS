@@ -30,3 +30,10 @@
 |[orbit](https://github.com/uber/orbit)|A Python package for Bayesian forecasting with object-oriented design and probabilistic models under the hood.|
 |[lightseq](https://github.com/bytedance/lightseq)|LightSeq: A High Performance Library for Sequence Processing and Generation|
 |[Merlion](https://github.com/salesforce/Merlion)|Merlion: A Machine Learning Framework for Time Series Intelligence|
+|[LazyProphet](https://github.com/tblume1992/LazyProphet)|Time Series Forecasting with LightGBM|
+
+
+
+
+
+

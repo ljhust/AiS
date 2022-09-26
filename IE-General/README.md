@@ -20,3 +20,10 @@
 |[AutoPhrase](https://github.com/shangjingbo1226/AutoPhrase)|AutoPhrase: Automated Phrase Mining from Massive Text Corpora|
 |[cx-extractor-python](https://github.com/chrislinan/cx-extractor-python)|基于行块分布函数的通用网页正文抽取算法的Python版本实现，添加了英文支持/ Web page content extraction algorithm, support both Chinese and English|
 |[Tabulo](https://github.com/interviewBubble/Tabulo)|Table Detection and Extraction Using Deep Learning ( It is built in Python, using Luminoth, TensorFlow<2.0 and Sonnet.)|
+|[OmniEvent](https://github.com/THU-KEG/OmniEvent)|A comprehensive, unified and modular event extraction toolkit.|
+
+
+
+
+
+

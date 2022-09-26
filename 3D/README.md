@@ -14,3 +14,6 @@
 |[pytorch3d](https://github.com/facebookresearch/pytorch3d)|PyTorch3D is FAIR's library of reusable components for deep learning with 3D data|
 |[instant-ngp](https://github.com/NVlabs/instant-ngp)|Instant neural graphics primitives: lightning fast NeRF and more|
 |[EasyMocap](https://github.com/zju3dv/EasyMocap)|he Full-Stack Web Framework for Go|
+|[vedo](https://github.com/marcomusy/vedo)|A python module for scientific analysis of 3D data|
+
+

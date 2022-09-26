@@ -28,5 +28,6 @@
 |[pulse](https://github.com/adamian98/pulse)|PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models|
 |[photo2cartoon](https://github.com/minivision-ai/photo2cartoon)|人像卡通化探索项目 (photo-to-cartoon translation project)|
 |[wesome-ai-art-image-synthesis](https://github.com/altryne/awesome-ai-art-image-synthesis)|A list of awesome tools, ideas, prompt engineering tools, colabs, models, and helpers for the prompt designer playing with aiArt and image synthesis. Covers Dalle2, MidJourney, StableDiffusion, and open source tools.|
+|[stitching](https://github.com/lukasalexanderweber/stitching)|A Python package for fast and robust Image Stitching|
 
 

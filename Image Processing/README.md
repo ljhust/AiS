@@ -27,7 +27,7 @@
 |[CV-pretrained-model](https://github.com/balavenkatesh3322/CV-pretrained-model)|A collection of computer vision pre-trained models.|
 |[BasicSR](https://github.com/XPixelGroup/BasicSR)|Open Source Image and Video Restoration Toolbox for Super-resolution, Denoise, Deblurring, etc. Currently, it includes EDSR, RCAN, SRResNet, SRGAN, ESRGAN, EDVR, BasicVSR, SwinIR, ECBSR, etc. Also support StyleGAN2, DFDNet.|
 |[upscayl](https://github.com/upscayl/upscayl)|🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.|
-
+|[yoloair](https://github.com/iscyy/yoloair)|🔥🔥🔥YOLOv5, YOLOv6, YOLOv7, PPYOLOE, YOLOX, YOLOR, YOLOv4, YOLOv3, PPYOLO, PPYOLOv2, Transformer, Attention, TOOD and Improved-YOLOv5-YOLOv7... Support to improve backbone, neck, head, loss, IoU, NMS and other modules🚀|
 
 
 

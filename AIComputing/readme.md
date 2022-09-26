@@ -11,3 +11,4 @@
 |[polars](https://github.com/pola-rs/polars)|Fast multi-threaded DataFrame library in Rust Python Node.js|
 |[nebullvm](https://github.com/nebuly-ai/nebullvm)|Easy-to-use library to boost AI inference leveraging multiple DL compilers|
 |[TensorRT](https://github.com/NVIDIA/TensorRT)|TensorRT is a C++ library for high performance inference on NVIDIA GPUs and deep learning accelerators.|
+|[edgehog-lab](https://github.com/Hedgehog-Computing/hedgehog-lab)|Run, compile and execute JavaScript for Scientific Computing and Data Visualization TOTALLY TOTALLY TOTALLY in your BROWSER! An open source scientific computing environment for JavaScript TOTALLY in your browser, matrix operations with GPU acceleration, TeX support, data visualization and symbolic computation.|

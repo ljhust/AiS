@@ -18,7 +18,6 @@
 |[lingvo](https://github.com/tensorflow/lingvo)|Lingvo is a framework for building neural networks in Tensorflow, particularly sequence models.A list of publications using Lingvo can be found here.|
 |[awesome-time-series-database](https://github.com/xephonhq/awesome-time-series-database)|
 |[GPy](https://github.com/SheffieldML/GPy)|Gaussian processes framework in python|
-|[tslearn](https://github.com/tslearn-team/tslearn)|A machine learning toolkit dedicated to time-series data|
 |[stocktwits](https://github.com/microsoft/forecasting)|Time Series Forecasting Best Practices & Examples|
 |[zipkin](https://github.com/openzipkin/zipkin)|Zipkin is a distributed tracing system|
 |[m3](https://github.com/m3db/m3)|M3 monorepo - Distributed TSDB, Aggregator and Query Engine, Prometheus Sidecar, Graphite Compatible, Metrics Platform|

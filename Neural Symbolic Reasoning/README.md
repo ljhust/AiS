@@ -13,3 +13,4 @@
 |[pyABC](https://github.com/ICB-DCM/pyABC)|distributed, likelihood-free inference|
 |[doWhy](https://github.com/py-why/dowhy)|DoWhy is a Python library for causal inference that supports explicit modeling and testing of causal assumptions. DoWhy is based on a unified language for causal inference, combining causal graphical models and potential outcomes frameworks.|
 |[chaos_genius](https://github.com/chaos-genius/chaos_genius)|||ML powered analytics engine for outlier detection and root cause analysis.|
+|[EconML](https://github.com/microsoft/EconML)|||ALICE (Automated Learning and Intelligence for Causation and Economics) is a Microsoft Research project aimed at applying Artificial Intelligence concepts to economic decision making. One of its goals is to build a toolkit that combines state-of-the-art machine learning techniques with econometrics in order to bring automation to complex causal …|
